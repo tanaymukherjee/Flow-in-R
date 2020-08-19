@@ -62,7 +62,7 @@ flow_view(ggplot2::coord_flip)
 # Flow_image_7
 
 
-# 7
+# 8
 # Try for some other function
 flow_view(tidyr::gather)
 # Flow_image_8
