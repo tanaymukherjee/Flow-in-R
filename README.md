@@ -19,5 +19,12 @@ devtools::install_github("moodymudskipper/flow")
 ```
 
 
+# Example
+```
+flow_view(median.default)
+```
+![Flow_image_1](https://user-images.githubusercontent.com/6689256/90700340-98af2700-e253-11ea-9d3a-937774c0feb4.png)
+
+
 ## References
 https://github.com/moodymudskipper/flow
